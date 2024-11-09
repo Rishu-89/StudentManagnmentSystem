@@ -1,5 +1,5 @@
 // controllers/courseController.js
-import Course from "../Models/courseModel.js";
+import Course from "../models/courseModel.js";
 
 // Controller for creating a new course
 export const createCourseController = async (req, res) => {
